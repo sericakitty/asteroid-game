@@ -1,4 +1,4 @@
-# Asteroidgame
+# Asteroid-game
 
 This is the game where you are a robot catching asteroids.  
 You get one point for each asteroid you catch.  
